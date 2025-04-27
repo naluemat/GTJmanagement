@@ -20,4 +20,4 @@ Welcome to the Employee Management System! This web application allows administr
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/employee-management.git
+git clone [https://github.com/yourusername/employee-management.git](https://github.com/naluemat/GTJmanagement/)
